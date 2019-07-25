@@ -30,7 +30,7 @@ First, we ask you to fill out the following survery (link redacted in this publi
 
 Second, we ask that you please read the workshop instruccions at https://github.com/ComunidadBioInfo/cdsb2019. There you will find a list of R pacakges that you will need to install on your laptop before the workshop (ideally using R 3.6 and RStudio 1.2).
 
-Third. You will receive an invitation to join the CDSB Slack workspace on the email account you used to register for the workshop. If you haven't heard about Slack, at http://lcolladotor.github.io/2018/06/19/using-slack-for-academic-departmental-communication/ I wrote a bit about it's usefulness. 
+Third. You will receive an invitation to join the CDSB Slack workspace on the email account you used to register for the workshop. If you haven't heard about Slack, at http://lcolladotor.github.io/2018/06/19/using-slack-for-academic-departmental-communication/ I wrote a bit about its usefulness. 
 
 Fourth. We will use git and GitHub, specially during days 4 and 5 of the workshop, with a class covering both during day 3. At https://happygitwithr.com/github-acct.html you will find recommendations on how to choose your username. Briefly, use your university email if you have one and choose a username that could become your website such as http://lcolladotor.github.io/ or https://tereom.netlify.com/. At https://happygitwithr.com/install-git.html you can find instructions on how to install git in your computer.
 
