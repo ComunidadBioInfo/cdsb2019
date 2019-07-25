@@ -39,5 +39,5 @@ Finally, in the collaborative proyects section https://github.com/ComunidadBioIn
 Thank you,
 Leonardo
 
-Instructors (bcc): Alejandra Medina-Rivera, Alejandro Reyes y María Teresa Ortiz
+Instructors (bcc): Alejandra Medina-Rivera, Alejandro Reyes and María Teresa Ortiz
 
