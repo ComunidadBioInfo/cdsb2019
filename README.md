@@ -129,5 +129,6 @@ The issue tracker is meant to facilitate some discussion and to collect ideas be
 
 
 _Partes del texto presentado aquí fueron tomadas y adaptadas de https://community.rstudio.com/t/information-for-building-tidy-tools-workshop-2019/ y de correos personales intercambiados con Stefanie Butland de rOpenSci_
+
 _Parts of the text presented here were taken and adapted from https://community.rstudio.com/t/information-for-building-tidy-tools-workshop-2019/ and personal communications with Stefanie Butland from rOpenSci_
 
