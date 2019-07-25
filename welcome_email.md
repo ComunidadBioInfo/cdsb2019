@@ -34,7 +34,7 @@ Third. You will receive an invitation to join the CDSB Slack workspace on the em
 
 Fourth. We will use git and GitHub, specially during days 4 and 5 of the workshop, with a class covering both during day 3. At https://happygitwithr.com/github-acct.html you will find recommendations on how to choose your username. Briefly, use your university email if you have one and choose a username that could become your website such as http://lcolladotor.github.io/ or https://tereom.netlify.com/. At https://happygitwithr.com/install-git.html you can find instructions on how to install git in your computer.
 
-Finally, in the collaborative proyects section https://github.com/ComunidadBioInfo/cdsb2019#proyectos-colaborativos-collaborative-projects we ask that you share ideas for R packages o activities that you want to work on during the last two days of the workshop. For this part, you will need to create a GitHub account https://github.com/join. Send us an email with your GitHub username once you have it.
+Finally, in the collaborative proyects section https://github.com/ComunidadBioInfo/cdsb2019#proyectos-colaborativos-collaborative-projects we ask that you share ideas for R packages or activities that you want to work on during the last two days of the workshop. For this part, you will need to create a GitHub account https://github.com/join. Send us an email with your GitHub username once you have it.
 
 Thank you,
 Leonardo
