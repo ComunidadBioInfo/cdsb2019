@@ -27,7 +27,8 @@ tidytools <- c(
   "devtools", "testthat", "covr", 
   "roxygen2", "lobstr", "vctrs", "sloop",
   "purrr", "stringr", "ggplot2", "dplyr", 
-  "tidyverse", "repurrrsive", "rmarkdown", "nycflights13"
+  "tidyverse", "repurrrsive", "rmarkdown", "nycflights13",
+  "BiocManager", "BiocCheck", "available", "usethis"
 )
 
 have <- rownames(installed.packages())
