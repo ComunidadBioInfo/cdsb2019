@@ -76,7 +76,7 @@ https://happygitwithr.com
 - Ya tenemos R y RStudio.
 - Necesitamos una cuenta en GitHub, registren una si no tienen.
 - Ahora vamos a: 
-  - Instalar GitHub
+  - Instalar Git
   - Familiarizarnos con GitHub
   - Conectarnos a GitHub
 
