@@ -64,7 +64,7 @@ https://happygitwithr.com
 - Issues: Issue reports, es fácil saber de dónde vino un reporte y si se arregló.
 - Pull requests: Los usuarios pueden solicitar contribuir y hacer cambios.
 
-## R in GitHub
+## R en GitHub
 
 - La comunidad de R es muy activa en GitHub.
 - Hay muchos paquetes ahí.
@@ -82,7 +82,7 @@ https://happygitwithr.com
 
 ## Instalar Git
 
-- Primero, revisen, puede ser que ya lo tienen instalados
+- Primero, revisen, puede ser que ya lo tienen instalado
 
 
 ```bash
@@ -134,7 +134,7 @@ git remote show origin
 
 
 ```bash
-echo "Something I want to add to the README in my local computer" >> README.md
+echo "Algo que agrego desde mi compu" >> README.md
 git status
 ```
 
@@ -146,7 +146,7 @@ git status
 
 ```bash
 git add README.md
-git commit -m "A commit from my local computer"
+git commit -m "Un commit desde mi compu local"
 git push
 ```
 
