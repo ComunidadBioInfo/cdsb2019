@@ -32,7 +32,7 @@ For details on the schedule check [this page](http://congresos.nnb.unam.mx/TIB20
 
 ## ES
 
-Este taller será impartido por Alejandro Reyes, Alejandra Medina-Rivera, María Teresa Ortiz y Leonardo Collado-Torres. Leonardo será el instructor principal dado que el estuvo presente en el taller que enseño Charlotte Wickham y en [rOpenSci unconf18](https://unconf18.ropensci.org/).
+Este taller será impartido por Alejandro Reyes, Alejandra Medina-Rivera, María Teresa Ortiz y Leonardo Collado-Torres. Leonardo será el instructor principal dado que él estuvo presente en el taller que enseño Charlotte Wickham y en [rOpenSci unconf18](https://unconf18.ropensci.org/).
 
 ## EN
 
@@ -106,7 +106,7 @@ install.packages(c(
 BiocManager::install("BiocCheck")
 ```
 
-We highly recommend that you install the lates version of RStudio (at least version 1.1) which you can download and install from https://www.rstudio.com/products/rstudio/download/#download
+We highly recommend that you install the latest version of RStudio (at least version 1.1) which you can download and install from https://www.rstudio.com/products/rstudio/download/#download
 
 If you have problems with your setup or RStudio, please get a little early and we'll help you configure your machine.
 
@@ -119,7 +119,7 @@ __Don't forget your power cable!__
 
 En los [días 4 y 5 del taller](https://comunidadbioinfo.github.io/post/building-tidy-tools-cdsb-runconf-2019/#program) trabajaremos en proyectos colaborativos al estilo de rOpenSci unconf. Todos los proyectos en la porción de unconf serán determinados por las personas en el taller. Así que si hay algún proyecto en el que quieras trabajar, o una idea que quieras sugerir, un tema que quieras aprender, o simplemente encontrar algún proyecto al cual unirte, por favor utiliza la página de _issues_ (cuestiones) que está disponible en https://github.com/ComunidadBioInfo/cdsb2019/issues. Si necesitas inspiración, nosotros creamos unos ejemplos en la página de _issues_ y también te invitamos a revisar https://github.com/ropensci/unconf17/issues y https://github.com/ropensci/unconf18/issues.
 
-La página de _issues_ está ahí para facilitar la discusión y recoltar las ideas antes del taller. No hay presión por sugerir nada o si se te ocurre alguna idea hasta que estemos en Cuernavaca. Muchas personas escogen proyectos en cuales trabajar después de conocer a otros participantes de eventos unconf. Si tienes alguna duda sobre el componente de unconf, por favor contactanos directamente (principalmente a Leonardo o a la cuenta de email de la CDSB).
+La página de _issues_ está ahí para facilitar la discusión y recolectar las ideas antes del taller. No hay presión por sugerir nada o si se te ocurre alguna idea hasta que estemos en Cuernavaca. Muchas personas escogen proyectos en cuales trabajar después de conocer a otros participantes de eventos unconf. Si tienes alguna duda sobre el componente de unconf, por favor contactanos directamente (principalmente a Leonardo o a la cuenta de email de la CDSB).
 
 ## EN
 
